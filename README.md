@@ -1,2 +1,2 @@
 # network-sdn
-multipath SDN
+multipath SDN using Ryu and Mininet
